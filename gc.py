@@ -6,7 +6,7 @@ from datetime import datetime
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = "6838193855:AAFm2sCuJlN8U4ysZpatPL6pud91nMbT5hk"
+TOKEN = "6838193855:AAGcpUWdeYWUjg75mSNZ5c7gS8E0nny63RM"
 ADMIN_ID = "6512242172"  # Your admin user ID
 GROUP_ID = -1002365524959  # Your group ID
 USER_FILE = "users.txt"
